@@ -7,10 +7,10 @@ export const cvs = [
     language: "Español",
     file: "cv/delaBarreraDiego_CV_QA_ES.pdf",
   },
-  {
-    title: "CV · Desarrollador",
-    description: "Foco en desarrollo web full stack con React y Java.",
-    language: "Español",
-    file: "cv/delaBarreraDiego_CV_IT_ES.pdf",
-  }
+  // {
+  //   title: "CV · Desarrollador",
+  //   description: "Foco en desarrollo web full stack con React y Java.",
+  //   language: "Español",
+  //   file: "cv/delaBarreraDiego_CV_IT_ES.pdf",
+  // }
 ];

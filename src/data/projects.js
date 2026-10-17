@@ -39,6 +39,13 @@ export const qaProjects = [
     report: "https://github.com/Diegodlba/api-testing-soapui-postman/blob/main/api-testing-soapui-postman/SoapUI_Postman_Informe_delaBarreraDiego.pdf",
   },
   {
+    title: "Mock Services y pruebas funcionales con SoapUI",
+    description: "Mock Service de la calculadora SOAP en SoapUI, con respuestas estáticas y una dinámica con script Groovy, probado con 4 casos que usan assertions de XPath, esquema, SOAP Fault y script.",
+    tags: ["SoapUI", "Mock Service", "Groovy", "SOAP", "Assertions"],
+    repo: "https://github.com/Diegodlba/soapui-mock-services",
+    report: "https://github.com/Diegodlba/soapui-mock-services/blob/main/MockServices_delaBarreraDiego.pdf",
+  },
+  {
     title: "Pruebas manuales: casos de prueba y defectos",
     description: "Diseño y ejecución de casos de prueba manuales sobre un sitio web de alojamientos (fe.deitech.online): pruebas positivas y negativas, prueba funcional y reporte de defectos. Incluye un defecto encontrado en la ubicación del mapa.",
     tags: ["Pruebas manuales", "Casos de prueba", "Pruebas positivas y negativas", "Reporte de defectos", "Prueba funcional"],
